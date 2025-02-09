@@ -1,0 +1,6 @@
+Day 1: Created Index page.
+        does not commit.
+Day 2: Created style page.
+        does not commit.
+day 3: Completed all work.
+        commited.
